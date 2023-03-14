@@ -155,10 +155,11 @@ header .container .links ul li a:hover {
     width: 100%;
   }
 }
-.landing img {
+.landing svg {
   position: absolute;
   bottom: 0px;
   left: 0px;
+  width: 100%
 }
 .landing .container {
   height: 100%;
