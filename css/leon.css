@@ -192,7 +192,7 @@ header .container .links ul li a:hover {
 }
 .landing svg {
   position: absolute;
-  bottom: 0px;
+  bottom: -2px;
   left: 0px;
   width: 100%;
 }
