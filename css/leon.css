@@ -180,7 +180,8 @@ header .container .links ul li a:hover {
 
 /* -------------------------------------------landing---------------------------------------------------------------------- */
 .landing {
-  height: calc(100vh - 110px);
+  height: calc(100vh - 72px);
+  position: relative;
   
 }
 @media (max-width: 767px) {
