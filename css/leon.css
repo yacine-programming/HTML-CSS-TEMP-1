@@ -185,12 +185,12 @@ header .container .links ul li a:hover {
 
 /* -------------------------------------------landing---------------------------------------------------------------------- */
 .landing {
-  height: calc(100vh - 84px);
+  height: calc(100vh - 70px);
   width: 100%;
 }
 @media (max-width: 767px) {
   .landing {
-    height: calc(100vh - 64px);
+    height: calc(100vh - 58px);
     width: 100%;
   }
 }
