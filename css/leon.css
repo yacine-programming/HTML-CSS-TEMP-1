@@ -180,19 +180,19 @@ header .container .links ul li a:hover {
 
 /* -------------------------------------------landing---------------------------------------------------------------------- */
 .landing {
-  height: calc(100vh - 72px);
+  height: calc(100vh - 70px);
   position: relative;
   
 }
 @media (max-width: 767px) {
   .landing {
-    height: calc(100vh - 60px);
+    height: calc(100vh - 58px);
     
   }
 }
 .landing svg {
   position: absolute;
-  bottom: -2px;
+  bottom: -3px;
   left: 0px;
   width: 100%;
 }
